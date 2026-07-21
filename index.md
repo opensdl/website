@@ -1,3 +1,7 @@
+---
+title: OpenSDL: Automated scientific discovery for everyone
+---
+
 # OpenSDL
 Automated scientific discovery for everyone
 
